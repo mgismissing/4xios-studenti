@@ -1,31 +1,35 @@
+body {
+    background-color: black !important;
+}
+
 *.green {
-    color: #00ff00;
+    color: #00ff00 !important;
 }
 
 *.green-bg {
-    background-color: #00ff00;
+    background-color: #00ff00 !important;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.comunicazioneEvent::marker{
-  color: #00ff00;
+  color: #00ff00 !important;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.assenzaEvent::marker{
-  color: #ff0000;
+  color: #ff0000 !important;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.votoEvent::marker{
-  color: #00ff00;
+  color: #00ff00 !important;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.argomentoEvent::marker{
-  color: #00ff00;
+  color: #00ff00 !important;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.compitoEvent::marker{
-  color: #00ff00;
+  color: #00ff00 !important;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.notaEvent::marker{
-  color: #ff0000;
+  color: #ff0000 !important;
 }

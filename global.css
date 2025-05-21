@@ -1,10 +1,10 @@
 .ui-page-theme-b .ui-checkbox > label.ui-btn, .ui-page-theme-b .ui-popup-container .ui-checkbox > label.ui-btn {
-  background-color: #000000;
+  background-color: #000000 !important;
 }
 
 .sidebarTiles.axios-theme-dipendent-b > .sidebarTile {
-  background-color: #000000;
-  border: 1px solid #ffffff;
+  background-color: #000000 !important;
+  border: 1px solid #ffffff !important;
 }
 
 *.green {

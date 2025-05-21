@@ -45,6 +45,10 @@
   background-color: #000000 !important;
 }
 
+*.normal {
+    text-decoration: none !important;
+}
+
 *.green {
     color: #00ff00 !important;
 }

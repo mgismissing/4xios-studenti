@@ -1,3 +1,7 @@
+.ui-dialog.ui-page-theme-b {
+  background-color: #000000 !important;
+}
+
 .ui-page-theme-b .ui-checkbox > label.ui-btn, .ui-page-theme-b .ui-popup-container .ui-checkbox > label.ui-btn {
   background-color: #000000 !important;
 }

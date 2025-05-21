@@ -1,3 +1,10 @@
+.ui-overlay-b, .ui-page-theme-b, .ui-page-theme-b .ui-panel-wrapper {
+	background-color: 			#000000 /*{b-page-background-color}*/;
+	border-color:	 		#ffffff /*{b-page-border}*/;
+	color: 					#ffffff /*{b-page-color}*/;
+	text-shadow: 0 /*{b-page-shadow-x}*/ 1px /*{b-page-shadow-y}*/ 0 /*{b-page-shadow-radius}*/ 	#111 /*{b-page-shadow-color}*/;
+}
+
 .ui-dialog.ui-page-theme-b {
   background-color: #000000 !important;
 }

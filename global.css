@@ -20,6 +20,15 @@
 	font-weight: bold;
 }
 
+.sidebarTiles.axios-theme-dipendent-b > .sidebarTile:active:not(.lockedTile) {
+  background-color: #000000 !important;
+}
+
+.pagSummaryContainer.axios-theme-dipendent-b, .pagJudgementContainer.axios-theme-dipendent-b, .pagLegendaPagellaContainer.axios-theme-dipendent-b {
+  background-color: #000000 !important;
+  border-color: #ffffff !important;
+}
+
 .ui-dialog.ui-page-theme-b {
   background-color: #000000 !important;
 }

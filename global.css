@@ -12,6 +12,14 @@
 	text-shadow: 0 /*{b-body-shadow-x}*/ 1px /*{b-body-shadow-y}*/ 0 /*{b-body-shadow-radius}*/ 	#111 /*{b-body-shadow-color}*/;
 }
 
+.ui-bar-b, .ui-page-theme-b .ui-bar-inherit, html .ui-bar-b .ui-bar-inherit, html .ui-body-b .ui-bar-inherit, html body .ui-group-theme-b .ui-bar-inherit {
+	background-color: 			#000000 !important /*{b-bar-background-color}*/;
+	border-color:	 		#ffffff !important /*{b-bar-border}*/;
+	color: 					#ffffff !important /*{b-bar-color}*/;
+	text-shadow: 0 /*{b-bar-shadow-x}*/ 1px /*{b-bar-shadow-y}*/ 0 /*{b-bar-shadow-radius}*/ 	#111 /*{b-bar-shadow-color}*/;
+	font-weight: bold;
+}
+
 .ui-dialog.ui-page-theme-b {
   background-color: #000000 !important;
 }
@@ -23,6 +31,9 @@
 .sidebarTiles.axios-theme-dipendent-b > .sidebarTile {
   background-color: #000000 !important;
   border: 1px solid #ffffff !important;
+}
+.axios-theme-dipendent-b.innerPanelContainer {
+  background-color: #000000 !important;
 }
 
 *.green {

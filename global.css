@@ -27,25 +27,25 @@
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.comunicazioneEvent::marker{
-  color: #00ff00 !important;
+  color: #000000;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.assenzaEvent::marker{
-  color: #ff0000 !important;
+  color: #000000;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.votoEvent::marker{
-  color: #00ff00 !important;
+  color: #000000;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.argomentoEvent::marker{
-  color: #00ff00 !important;
+  color: #000000;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.compitoEvent::marker{
-  color: #00ff00 !important;
+  color: #000000;
 }
 
 #popupDashboardCalendarForm div#dashboardCalendarEventsContainer ul#dashboardEventsUl > li.notaEvent::marker{
-  color: #ff0000 !important;
+  color: #000000;
 }
